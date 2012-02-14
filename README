@@ -1,0 +1,4 @@
+Author: James Meldrum
+Desc: Thunder is a synched audio and video recorder and encoder
+written in Flash that doesn't require passing data back to a media server. The project
+implements Alchemy to improve encoding/recording speed.
